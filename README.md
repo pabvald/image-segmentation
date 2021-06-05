@@ -6,7 +6,7 @@ Image segmentation has important applications in different fields such as medica
 
 ### Report 
 
-For this project, we have elaborated a [report](./docs/report.pdf) in the NIPS 2020 format explaining in detail our work during this project.
+We have elaborated a [report](./docs/report.pdf) in the NIPS 2020 format explaining in detail our work during this project.
 
 ### Notebooks 
 
